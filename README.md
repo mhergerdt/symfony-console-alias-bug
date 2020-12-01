@@ -1,0 +1,1 @@
+symfony-console-alias-bug
